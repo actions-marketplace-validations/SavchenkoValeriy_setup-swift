@@ -9060,7 +9060,7 @@ var OS;
 })(OS = exports.OS || (exports.OS = {}));
 const AVAILABLE_OS = {
     macOS: ["latest", "11.0", "10.15"],
-    Ubuntu: ["latest", "20.04", "18.04", "16.04"],
+    Ubuntu: ["latest", "22.04", "20.04", "18.04", "16.04"],
 };
 function getSystem() {
     return __awaiter(this, void 0, void 0, function* () {
